@@ -1,0 +1,69 @@
+html{
+    font-size: 10px;
+    background-color: #B9EDDD;
+}
+/*  For this page use the colors from the below color pallette
+    1. #87CBB9
+    2. #B9EDDD
+    3. #569DAA
+    4. #577D86
+    Use it for texts, boxes and backgrounds */
+
+/*  Available fonts for this page are
+    1. 'Merriweather', serif;
+    2. 'Montserrat', sans-serif;
+    3. "Times New Roman", serif;
+    4. "Helvetica", sans-serif;
+    Use any of the above mentioned fonts */
+
+    h1{
+        font-size: 5rem;
+        text-align: center;
+        margin-top: 2.5%;
+    }
+
+    .name{
+        color:#577D86;
+        font-weight: bold;
+        font-family: cursive;
+    }
+
+    .project{
+        color: #577D86;
+        font-weight: bold;
+        font-family: "Helvetica", sans-serif;
+    }
+
+    img{
+        display: block;
+        margin: 0 auto;
+    }
+
+    h2{
+        font-size: 3.5rem;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+        color: black;
+        text-align: center;
+        position: relative;
+        top: -150px;
+    }
+
+    p{
+        font-size: 2.75rem;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-style:italic;
+        font-weight: bold;
+        color: #569DAA;
+        text-align: center;
+        position: relative;
+        top: -150px;
+    } 
+
+    footer{
+        text-align: center;
+        font-size: 2rem;
+        color:gray;
+        font-style: italic;
+        margin: 0;
+    }
